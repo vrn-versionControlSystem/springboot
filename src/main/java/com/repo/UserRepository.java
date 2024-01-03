@@ -6,6 +6,9 @@ import com.entity.User;
 
 public interface UserRepository extends JpaRepository<User, Integer>{
 
-	
+	/*
+	 * m1()
+	 * m2()
+	 * */
 	
 }
